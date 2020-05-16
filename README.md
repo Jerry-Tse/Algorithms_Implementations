@@ -2,7 +2,8 @@
 Implementations of [Intro to Data Structures and Algorithms](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513) course provided by Google on Udacity.
 
 
-### Overview
+
+## Table of Contents
 
 Topics | Location | Details
 :------ | :--: | :--:
