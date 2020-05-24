@@ -12,7 +12,6 @@ Topics | Location | Details
 [Queue](https://github.com/Jerry-Tse/Algorithms_Implementations/blob/master/List-Based%20Collections/Queue.py)| List-Based Collections | Enqueue, Peek, Dequeue
 [Binary Search]()| Searching & Sorting | Binary Search
 [Recursion]()| Searching & Sorting | Fibonacci sequence Recursion
-[Quick Sort]()| Searching & Sorting | ## Not Done yet
 [Hash_Table](https://github.com/Jerry-Tse/Algorithms_Implementations/blob/master/Maps%20%26%20Hashing/Hash_Table.py) | Maps & Hashing | Create a Hash Table for Strings 
 [Binary Tree](https://github.com/Jerry-Tse/Algorithms_Implementations/blob/master/Trees/Binary_Tree.py) | Trees | Binary Tree
 [Binary Search Tree](https://github.com/Jerry-Tse/Algorithms_Implementations/blob/master/Trees/Binary_Search_Tree.py) | Trees | Insert, Search using recursion 
