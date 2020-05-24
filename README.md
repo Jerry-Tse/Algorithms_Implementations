@@ -17,6 +17,6 @@ Topics | Location | Details
 [Binary Tree](https://github.com/Jerry-Tse/Algorithms_Implementations/blob/master/Trees/Binary_Tree.py) | Trees | Binary Tree
 [Binary Search Tree](https://github.com/Jerry-Tse/Algorithms_Implementations/blob/master/Trees/Binary_Search_Tree.py) | Trees | Insert, Search using recursion 
 [Graph]() | Graphs | Edge list, Adjacency list, Adjacency matrix
-[Graph Traversal]() | Graphs | ## Not Done yet
+[Graph Traversal]() | Graphs | DFS, BFS
 
 
